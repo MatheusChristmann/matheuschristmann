@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Felipe Christmann!
 
-- 🔭 Tenho 21 anos e sou Programador Delphi na Microsys Sistemas.
-- 🌱 Atualmente sou acadêmico de Ciência da Computação da UNOESC e estou projetando o meu TCC. Em breve você terá mais notícias sobre ele!
+- 🔭 Tenho 23 anos e sou Programador Delphi na Sysmo Sistemas.
+- 🌱 Formado em Ciência da Computação na UNOESC.
 
   <div style="display: inline_block"><br>
   <img align="right" alt="MatheusImage" height="160" style="border-radius:50px;" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_872%2Cw_1920&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1589321797%2F997d372017a246d3289457d95b148576%2FMatheus.png">
