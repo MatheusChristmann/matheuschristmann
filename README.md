@@ -1,18 +1,99 @@
-### Olá! Eu sou o Matheus Felipe Christmann!
+# 🧑‍💻 Matheus Felipe Christmann
 
-- 🔭 Tenho 23 anos e sou Programador Delphi na Sysmo Sistemas.
-- 🌱 Formado em Ciência da Computação na UNOESC.
+**`Desenvolvedor Delphi`**
 
-  <div style="display: inline_block"><br>
-  <img align="right" alt="MatheusImage" height="160" style="border-radius:50px;" src="https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_872%2Cw_1920&url=https%3A%2F%2Fpadlet-uploads.storage.googleapis.com%2F1589321797%2F997d372017a246d3289457d95b148576%2FMatheus.png">
-</div>
-    
-   ##
-  
- <div> 
-  <a href="https://web.whatsapp.com/send?phone=+5549991687649" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-christmann-7ba7ba207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/mathchristmann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:matheus.ch35@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="mailto:mateasy16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
-</div>
+Me chamo Matheus Felipe Christmann, tenho 24 anos e sou natural de Santa Catarina. Concluí o ensino superior na UNOESC em Ciência da Computação. Atualmente, estou cursando uma pós-graduação em Engenharia de IA Aplicada na UNIPDS.
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="DELPHI"
+    title="DELPHI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="RAD"
+    title="RAD" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/radstudio/radstudio-original.svg"           
+/>
+
+<img 
+    align="left" 
+    alt="POSTGRESQL"
+    title="POSTGRESQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"           
+/>
+
+<img 
+    align="left" 
+    alt="FIREBIRD"
+    title="FIREBIRD" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SPRING"
+    title="SPRING" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"          
+/>
+
+<img 
+    align="left" 
+    alt="POSTMAN"
+    title="POSTMAN" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"           
+/>
+
+<img 
+    align="left" 
+    alt="GIT"
+    title="GIT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GITHUB"
+    title="GITHUB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="GITLAB"
+    title="GITLAB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"           
+/>
+
+<img 
+    align="left" 
+    alt="WINDOWS11"
+    title="WINDOWS11" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"           
+/>
